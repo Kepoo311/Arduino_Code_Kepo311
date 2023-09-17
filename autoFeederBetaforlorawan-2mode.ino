@@ -5,7 +5,7 @@
 #include <ArduinoJson.h>
 #include <Wire.h>
 #include <Adafruit_Sensor.h>
-#include <DHT.h>
+#include <DHT.h>//
 #include <LiquidCrystal_I2C.h>
 
 #define servoPin 16
